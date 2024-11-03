@@ -1,4 +1,4 @@
-# **HOTEL BOOKING EXPLORATORY DATA ANALYISIS**
+# **HOTEL BOOKING EXPLORATORY DATA ANALYSIS**
 This dataset contains booking information for a city hotel and a resort hotel from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data). It is originally from the article written by Nuno Antonio, Ana de Almeida, and Luis Nunes for [Data in Brief, Vol. 22, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191).
 
 ## Background
